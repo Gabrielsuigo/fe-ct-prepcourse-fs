@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: #324141;
+    font-size: 10px;
+}
+button{
+    background-color: gray;
+}
+.title{
+    font-size: 70px;
+}
+#principal {
+font-size: 100;
+color: gris oscuro
+
+}
